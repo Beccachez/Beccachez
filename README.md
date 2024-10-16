@@ -1,3 +1,7 @@
+
+[//]: # (WIP: <img src="https://widgetbite.com/banner?title=Rebecca%20Sanchez&subtitle=Full%20Stack%20Developer&backgroundpalette=fusion&fontpalette=pastels&titletransform=skew&subtitletransform=none" width=100% height=100%/>)
+
+
 <h2 style="font-family:Courier;"><i>Well met friend! I'm...</i></h2>
 
 
